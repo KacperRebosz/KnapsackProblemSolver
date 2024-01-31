@@ -1,5 +1,6 @@
 # Knapsack Problem Solver
-C++ Project assignment for semester credit. Program uses genetic algorithm to solve knapsack problem.
+C++ Project assignment for semester credit. Program uses genetic algorithm to solve knapsack problem.<br/>
+Documentation of a project is provided in pdf file.</br>
 
 Task description: 
 
@@ -12,9 +13,8 @@ This program can be used from the command line by passing the following switches
 -o name.txt : output file with the best solutions in all generations<br/>
 -c value : knapsack capacity<br/>
 -g value : number of generations<br/>
--n value : number of individuals in a generation<br/><br/><br/>
+-n value : number of individuals in a generation<br/><br/>
 
-
-Example usage (using g++ compiler): ./{nameOfFile.exe} -i example_items.txt -o example_solution.txt -c 5.0 -g 1000 -n 100<br/><br/>
+Example usage (using g++ compiler): ./{nameOfFile.exe} -i example_items.txt -o example_solution.txt -c 5.0 -g 1000 -n 100<br/>
 
 Result of a solution is provided in example_solution.txt in repository.
