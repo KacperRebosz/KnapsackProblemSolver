@@ -1,0 +1,1007 @@
+Generation 1: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 2: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 3: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 4: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 5: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 6: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 7: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 8: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 9: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 10: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 11: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 12: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 13: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 14: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 15: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 16: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 17: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 18: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 19: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 20: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 21: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 22: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 23: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 7520
+Generation 24: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 25: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 26: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 27: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 28: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 29: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 30: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 31: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 32: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 33: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 34: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 35: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 36: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 37: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 38: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 39: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 40: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 41: laptop (weight: 2.2, value: 4000) camera (weight: 1.2, value: 3500) teapot (weight: 1.5, value: 130) Total weight: 4.9, Total value: 7630
+Generation 42: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 43: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 44: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 45: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 46: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 47: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 48: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 49: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 50: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 51: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 52: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 53: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 54: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 55: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 56: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 57: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 58: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 59: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 60: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 61: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 62: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 63: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 64: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 65: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 66: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 67: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 68: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 69: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 70: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 71: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 72: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 73: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 74: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 75: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 76: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 77: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 78: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 79: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 80: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 81: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 82: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 83: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 84: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 85: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 86: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 87: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 88: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 89: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 90: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 91: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 92: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 93: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 94: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 95: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 96: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 97: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 98: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 99: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 100: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 101: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 102: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 103: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 104: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 105: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 106: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 107: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 108: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 109: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 110: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 111: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 112: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 113: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 114: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 115: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 116: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 117: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 118: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 119: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 120: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 121: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 122: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 123: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 124: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 125: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 126: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 127: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 128: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 129: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 130: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 131: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 132: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 133: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 134: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 135: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 136: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 137: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 138: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 139: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 140: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 141: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 142: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 143: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 144: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 145: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 146: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 147: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 148: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 149: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 150: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 151: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 152: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 153: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 154: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 155: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 156: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 157: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 158: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 159: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 160: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 161: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 162: laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 3.9, Total value: 8400
+Generation 163: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 164: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 165: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 166: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 167: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 168: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 169: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 170: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 171: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 172: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 173: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 174: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 175: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 176: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 177: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 178: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 179: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 180: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 181: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 182: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 183: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 184: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 185: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 186: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 187: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 188: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 189: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 190: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 191: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 192: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 193: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 194: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 195: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 196: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 197: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 198: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 199: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 200: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 201: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 202: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 203: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 204: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 205: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 206: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 207: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 208: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 209: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 210: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 211: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 212: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 213: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 214: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 215: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 216: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 217: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 218: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 219: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 220: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 221: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 222: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 223: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 224: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 225: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 226: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 227: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 228: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 229: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 230: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 231: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 232: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 233: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 234: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 235: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 236: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 237: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 238: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 239: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 240: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 241: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 242: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 243: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 244: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 245: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 246: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 247: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 248: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 249: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 250: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 251: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 252: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 253: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 254: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 255: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 256: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 257: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 258: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 259: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 260: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 261: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 262: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 263: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 264: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 265: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 266: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 267: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 268: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 269: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 270: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 271: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 272: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 273: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 274: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 275: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 276: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 277: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 278: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 279: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 280: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 281: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 282: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 283: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 284: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 285: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 286: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 287: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 288: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 289: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 290: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 291: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 292: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 293: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 294: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 295: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 296: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 297: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 298: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 299: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 300: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 301: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 302: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 303: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 304: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 305: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 306: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 307: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 308: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 309: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 310: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 311: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 312: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 313: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 314: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 315: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 316: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 317: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 318: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 319: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 320: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 321: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 322: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 323: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 324: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 325: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 326: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 327: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 328: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 329: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 330: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 331: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 332: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 333: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 334: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 335: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 336: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 337: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 338: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 339: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 340: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 341: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 342: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 343: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 344: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 345: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 346: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 347: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 348: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 349: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 350: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 351: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 352: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 353: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 354: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 355: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 356: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 357: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 358: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 359: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 360: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 361: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 362: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 363: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 364: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 365: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 366: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 367: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 368: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 369: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 370: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 371: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 372: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 373: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 374: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 375: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 376: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 377: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 378: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 379: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 380: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 381: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 382: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 383: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 384: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 385: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 386: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 387: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 388: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 389: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 390: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 391: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 392: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 393: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 394: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 395: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 396: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 397: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 398: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 399: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 400: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 401: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 402: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 403: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 404: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 405: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 406: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 407: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 408: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 409: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 410: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 411: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 412: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 413: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 414: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 415: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 416: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 417: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 418: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 419: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 420: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 421: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 422: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 423: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 424: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 425: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 426: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 427: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 428: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 429: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 430: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 431: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 432: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 433: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 434: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 435: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 436: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 437: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 438: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 439: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 440: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 441: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 442: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 443: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 444: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 445: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 446: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 447: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 448: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 449: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 450: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 451: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 452: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 453: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 454: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 455: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 456: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 457: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 458: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 459: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 460: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 461: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 462: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 463: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 464: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 465: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 466: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 467: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 468: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 469: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 470: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 471: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 472: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 473: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 474: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 475: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 476: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 477: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 478: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 479: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 480: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 481: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 482: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 483: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 484: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 485: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 486: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 487: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 488: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 489: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 490: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 491: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 492: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 493: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 494: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 495: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 496: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 497: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 498: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 499: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 500: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 501: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 502: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 503: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 504: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 505: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 506: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 507: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 508: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 509: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 510: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 511: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 512: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 513: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 514: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 515: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 516: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 517: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 518: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 519: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 520: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 521: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 522: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 523: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 524: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 525: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 526: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 527: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 528: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 529: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 530: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 531: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 532: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 533: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 534: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 535: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 536: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 537: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 538: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 539: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 540: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 541: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 542: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 543: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 544: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 545: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 546: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 547: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 548: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 549: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 550: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 551: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 552: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 553: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 554: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 555: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 556: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 557: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 558: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 559: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 560: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 561: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 562: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 563: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 564: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 565: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 566: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 567: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 568: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 569: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 570: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 571: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 572: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 573: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 574: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 575: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 576: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 577: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 578: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 579: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 580: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 581: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 582: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 583: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 584: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 585: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 586: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 587: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 588: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 589: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 590: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 591: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 592: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 593: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 594: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 595: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 596: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 597: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 598: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 599: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 600: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 601: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 602: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 603: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 604: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 605: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 606: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 607: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 608: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 609: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 610: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 611: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 612: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 613: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 614: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 615: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 616: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 617: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 618: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 619: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 620: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 621: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 622: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 623: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 624: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 625: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 626: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 627: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 628: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 629: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 630: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 631: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 632: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 633: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 634: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 635: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 636: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 637: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 638: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 639: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 640: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 641: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 642: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 643: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 644: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 645: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 646: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 647: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 648: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 649: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 650: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 651: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 652: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 653: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 654: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 655: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 656: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 657: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 658: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 659: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 660: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 661: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 662: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 663: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 664: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 665: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 666: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 667: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 668: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 669: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 670: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 671: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 672: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 673: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 674: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 675: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 676: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 677: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 678: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 679: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 680: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 681: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 682: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 683: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 684: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 685: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 686: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 687: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 688: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 689: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 690: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 691: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 692: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 693: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 694: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 695: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 696: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 697: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 698: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 699: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 700: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 701: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 702: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 703: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 704: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 705: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 706: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 707: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 708: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 709: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 710: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 711: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 712: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 713: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 714: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 715: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 716: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 717: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 718: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 719: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 720: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 721: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 722: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 723: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 724: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 725: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 726: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 727: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 728: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 729: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 730: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 731: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 732: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 733: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 734: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 735: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 736: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 737: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 738: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 739: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 740: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 741: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 742: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 743: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 744: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 745: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 746: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 747: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 748: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 749: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 750: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 751: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 752: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 753: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 754: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 755: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 756: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 757: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 758: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 759: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 760: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 761: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 762: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 763: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 764: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 765: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 766: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 767: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 768: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 769: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 770: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 771: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 772: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 773: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 774: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 775: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 776: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 777: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 778: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 779: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 780: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 781: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 782: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 783: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 784: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 785: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 786: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 787: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 788: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 789: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 790: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 791: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 792: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 793: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 794: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 795: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 796: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 797: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 798: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 799: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 800: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 801: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 802: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 803: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 804: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 805: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 806: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 807: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 808: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 809: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 810: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 811: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 812: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 813: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 814: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 815: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 816: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 817: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 818: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 819: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 820: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 821: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 822: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 823: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 824: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 825: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 826: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 827: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 828: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 829: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 830: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 831: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 832: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 833: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 834: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 835: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 836: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 837: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 838: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 839: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 840: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 841: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 842: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 843: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 844: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 845: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 846: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 847: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 848: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 849: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 850: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 851: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 852: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 853: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 854: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 855: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 856: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 857: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 858: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 859: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 860: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 861: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 862: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 863: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 864: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 865: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 866: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 867: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 868: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 869: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 870: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 871: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 872: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 873: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 874: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 875: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 876: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 877: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 878: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 879: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 880: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 881: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 882: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 883: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 884: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 885: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 886: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 887: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 888: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 889: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 890: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 891: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 892: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 893: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 894: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 895: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 896: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 897: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 898: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 899: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 900: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 901: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 902: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 903: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 904: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 905: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 906: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 907: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 908: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 909: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 910: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 911: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 912: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 913: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 914: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 915: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 916: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 917: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 918: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 919: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 920: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 921: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 922: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 923: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 924: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 925: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 926: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 927: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 928: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 929: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 930: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 931: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 932: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 933: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 934: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 935: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 936: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 937: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 938: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 939: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 940: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 941: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 942: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 943: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 944: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 945: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 946: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 947: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 948: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 949: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 950: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 951: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 952: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 953: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 954: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 955: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 956: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 957: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 958: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 959: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 960: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 961: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 962: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 963: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 964: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 965: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 966: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 967: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 968: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 969: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 970: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 971: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 972: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 973: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 974: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 975: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 976: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 977: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 978: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 979: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 980: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 981: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 982: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 983: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 984: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 985: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 986: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 987: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 988: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 989: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 990: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 991: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 992: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 993: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 994: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 995: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 996: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 997: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 998: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 999: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Generation 1000: mug (weight: 0.5, value: 20) laptop (weight: 2.2, value: 4000) tablet (weight: 0.5, value: 900) camera (weight: 1.2, value: 3500) Total weight: 4.4, Total value: 8420
+Best solution: 
+  mug (weight: 0.5, value: 20)
+  laptop (weight: 2.2, value: 4000)
+  tablet (weight: 0.5, value: 900)
+  camera (weight: 1.2, value: 3500)
+Total weight: 4.4
+Total value: 8420

@@ -1,0 +1,8 @@
+tvset 10.0 3300
+mug 0.5 20
+laptop 2.2 4000
+screen 4.5 1500
+tablet 0.5 900
+washer 35.0 2200
+camera 1.2 3500
+teapot 1.5 130
